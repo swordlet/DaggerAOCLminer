@@ -1,0 +1,17 @@
+/**/*.o
+/**/*~
+/.vs/
+/GpuMiner.VC.db
+/GpuMiner/x64/
+/packages/
+/x64/
+/GpuMiner.VC.VC.opendb
+GpuMiner/GpuMiner.vcxproj.user
+GpuMiner/version.aps
+/params.txt
+/GpuMiner/Release/
+/Release/
+/Debug/
+/GpuMiner/Debug/
+GpuMiner/GpuMiner.xcodeproj/project.xcworkspace
+mac/GpuMiner.xcodeproj/project.xcworkspace
