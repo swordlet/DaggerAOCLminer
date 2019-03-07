@@ -5,6 +5,10 @@ Altera/Intel OPENCL(FPGA Cyclone V) PCI-E Card miner for XDAG (Dagger coin)
 
 Terasic C5P(OpenVINO Starter Kit)
 
+Cyclone V GX PCIe Board, 301K LE, PCIe Gen1 x4
+
+1GB DDR3, 64MB SDRAM, EPCQ256
+
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1159&PartNo=1
 
 
