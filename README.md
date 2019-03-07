@@ -28,6 +28,8 @@ This miner does not require files wallet.dat and dnet_key.dat. Storage folder is
 
 Intel FPGA Quartus Prime Standard Edition 17.1
 
+Intel(R) FPGA SDK for OpenCL 17.1
+
 C5P(OpenVINO Starter Kit) BSP(Board Support Package) for Intel SDK OpenCL 17.1
 
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1159&PartNo=4
