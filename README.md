@@ -32,6 +32,10 @@ C5P(OpenVINO Starter Kit) BSP(Board Support Package) for Intel SDK OpenCL 17.1
 
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1159&PartNo=4
 
+OPENCL source code in GpuMiner/CL/AOCLMminer_kernel.cl
+
+Put the compiled AOCLMminer_kernel.aocx file into x64 folder with the executable host application.
+
 ## Windows:  
 
 The project has 3 dependencies: FPGA SDK for OpenCL, Boost and OpenSSL 
