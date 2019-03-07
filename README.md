@@ -1,5 +1,5 @@
 # DaggerAOCLMiner
-Altera/Intel OPENCL(FPGA Cyclone V) PCI-E Card miner for XDAG (Dagger coin)
+Altera/Intel OPENCL(FPGA Cyclone V) PCIe Card miner for XDAG (Dagger coin)
 
 **Hardware:**
 
