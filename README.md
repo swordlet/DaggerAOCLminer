@@ -28,7 +28,7 @@ about 15 coins per day
 	
 
 	
-**The project ONLY supports Windows now.** 
+**The project ONLY supports Windows and single card now.** 
 
 ## How to build
 
