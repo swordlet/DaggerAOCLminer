@@ -4,6 +4,7 @@ Altera/Intel OPENCL(FPGA Cyclone V) PCI-E Card miner for XDAG (Dagger coin)
 **Hardware:**
 
 Terasic C5P(OpenVINO Starter Kit)
+
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1159&PartNo=1
 
 
@@ -22,15 +23,19 @@ This miner does not require files wallet.dat and dnet_key.dat. Storage folder is
 **The project ONLY supports Windows now.** 
 
 ## How to build
+
 ## FPGA: 
+
 Intel FPGA Quartus Prime Standard Edition 17.1
+
 C5P(OpenVINO Starter Kit) BSP(Board Support Package) for Intel SDK OpenCL 17.1
 
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=167&No=1159&PartNo=4
 
 ## Windows:  
 
-The project has 3 dependencies: FPGA SDK for OpenCL, Boost and OpenSSL   
+The project has 3 dependencies: FPGA SDK for OpenCL, Boost and OpenSSL 
+
 Boost and OpenSSL libraries are included by Nuget Manager and should be downloaded automatically.
 
 Intel(R) FPGA SDK for OpenCL 17.1
