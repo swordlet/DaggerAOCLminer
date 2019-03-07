@@ -10,7 +10,7 @@ https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=1
 
 This miner does not require files wallet.dat and dnet_key.dat. Storage folder is still necessary.
 
-## How to build
+## Hashrate
 
 140Mh
 
