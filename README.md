@@ -24,7 +24,7 @@ about 15 coins per day
 
 **Launch parameters:**
 
-	1) FPGA benchmark: DaggerAOCLMinerDaggerAOCLMiner.exe -G -M  
+	1) FPGA benchmark: DaggerAOCLMiner.exe -G -M  
 	
 	2) FPGA mining: DaggerAOCLMiner.exe -G -a <WALLET_ADDRESS> -p <POOL_ADDRESS>  
 	
