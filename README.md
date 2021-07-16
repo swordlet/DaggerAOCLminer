@@ -1,6 +1,8 @@
 # DaggerAOCLMiner
 Altera/Intel OPENCL(FPGA Cyclone V) PCIe Card miner for XDAG (Dagger coin)
 
+Deprecated, XDAG replaced mining algo from double sha256 to RandomX.
+
 **Hardware:**
 
 Terasic C5P(OpenVINO Starter Kit)
